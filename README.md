@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a CS student
+Hi, I'm Rylan a CS student
 
 
 # 💻 Tech Stack:
