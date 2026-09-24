@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Rylan</h1>
+<!-- <h1 align="left">Hi 👋, I'm Rylan</h1>
 <h4 align="left">A student of the game</h4>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,4 +13,4 @@
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rylanrees16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rylanrees16" height="30" width="40" /></a> -->
-</p>
+</p> -->
